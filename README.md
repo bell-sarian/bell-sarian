@@ -33,7 +33,7 @@ I am currently a Software Engineer II at Northrop Grumman
 <img align="left" alt="React" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AReact-icon.svg&psig=AOvVaw2_x-Iq_2XWaAt1-qeXqQzA&ust=1678485680769000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCKibgsfsz_0CFQAAAAAdAAAAABAE"/ >
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
-<img align="left" alt="Java" width="26px" src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png"/>
+<img align="left" alt="Java" width="26px" src="[https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png](https://1000logos.net/wp-content/uploads/2020/09/Java-Logo-1996.png)" />
 
 <br/>
 
