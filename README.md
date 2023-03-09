@@ -30,7 +30,7 @@ I am currently a Software Engineer II at Northrop Grumman
 
 ### Languages and Tools I Utilize:
 
-<img align="left" alt="React" width="26px" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AReact-icon.svg&psig=AOvVaw2_x-Iq_2XWaAt1-qeXqQzA&ust=1678485680769000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCKibgsfsz_0CFQAAAAAdAAAAABAE](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207)" />
+<img align="left" alt="React" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AReact-icon.svg&psig=AOvVaw2_x-Iq_2XWaAt1-qeXqQzA&ust=1678485680769000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCKibgsfsz_0CFQAAAAAdAAAAABAE](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
 <img align="left" alt="Java" width="26px" src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo-700x394.png" />
