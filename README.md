@@ -3,7 +3,7 @@
 <!--
 **bell-sarian/bell-sarian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-I am currently a Software Engineer II at Northrop Grumman
+I am a Software Engineer at Northrop Grumman
 
 - 🔭 I’m currently working on a website to display my web-based art projects! All written in React using JS/HTML/CSS and Three.js/WebGL
 - 🌱 I’m currently learning WebGL and Artifical Intelligence.
@@ -16,7 +16,7 @@ I am currently a Software Engineer II at Northrop Grumman
 ## I am currently a Software Engineer II at Northrop Grumman
 
 - 🔭 I’m currently working on a website to display my web-based art projects! All written in React using JS/HTML/CSS and Three.js/WebGL
-- 🌱 I’m currently learning WebGL and Artifical Intelligence.
+- 🌱 On my free time, I am learning WebGL and Artifical Intelligence.
 - 👯 I’m looking to collaborate with others to learn more about best practicesx I can take with me as an engineer
 - 🤔 I’m looking for help on becoming better at writing tests for QA
 - 🥅 Current Goals: Publish more projects on Github
