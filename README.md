@@ -15,12 +15,12 @@ I am a Software Engineer at Microsoft
 
 ## I am currently a Software Engineer II at Northrop Grumman
 
-- 🔭 I’m currently working on a website to display my web-based art projects! All written in React using JS/HTML/CSS and Three.js/WebGL
+- 🔭 I’m currently working on a personal planner application
 - 🌱 On my free time, I am learning WebGL and Artifical Intelligence.
-- 👯 I’m looking to collaborate with others to learn more about best practicesx I can take with me as an engineer
-- 🤔 I’m looking for help on becoming better at writing tests for QA
+- 👯 I’m looking to collaborate with others to learn more about best practices I can take with me as an engineer
+- 🤔 I’m looking to become better at full stack++ (from database work to ux research)
 - 🥅 Current Goals: Publish more projects on Github
-- ⚡ Fun fact: I love to get outside as much as I can
+- ⚡ Fun fact: I love being outdoors
 
 ### Connect with me:
 [<img align="left" alt="Bell | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/61/61109.png" />](https://www.linkedin.com/in/bell-sarian/)
