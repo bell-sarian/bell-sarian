@@ -13,7 +13,7 @@ I am a Software Engineer at Microsoft
 - ⚡ Fun fact: I love to get outside as much as I can
 -->
 
-## I am currently a Software Engineer II at Northrop Grumman
+## I am currently a Software Engineer II at Microsoft
 
 - 🔭 I’m currently working on a personal planner application
 - 🌱 On my free time, I am learning WebGL and Artifical Intelligence.
